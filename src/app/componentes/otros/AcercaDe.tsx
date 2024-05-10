@@ -19,7 +19,7 @@ export const AcercaDe = () => {
             <div className="col-lg-3 mb-3 d-flex align-items-stretch">
               <div className="card">
                 <div className="card-body">
-                  <h5 className="card-title">Samanta Alexadra Sandoval</h5>
+                  <h5 className="card-title">Mark Zubember</h5>
                   <p className="card-text">Desarrolladora Senior</p>
                   <div className="text-center ">
                     <img src={fotoPerfil1} alt="Foto developer" width="220px" height="auto" />
@@ -31,7 +31,7 @@ export const AcercaDe = () => {
             <div className="col-lg-3 mb-3 d-flex align-items-stretch">
               <div className="card">
                 <div className="card-body">
-                  <h5 className="card-title">Roberto Espinosa Saldarriaga</h5>
+                  <h5 className="card-title">Johan David Tovar</h5>
                   <p className="card-text">Desarrollador Junior</p>
                   <div className="text-center ">
                     <img src={fotoPerfil2} alt="Foto developer" width="220px" height="auto" />
@@ -43,7 +43,7 @@ export const AcercaDe = () => {
             <div className="col-lg-3 mb-3 d-flex align-items-stretch">
               <div className="card">
                 <div className="card-body">
-                  <h5 className="card-title">Catlo Alirio Ortegón</h5>
+                  <h5 className="card-title">Angel Tovar</h5>
                   <p className="card-text">Desarrollador Bru</p>
                   <div className="text-center ">
                     <img src={fotoPerfil3} alt="Foto developer" width="220px" height="auto" />
@@ -67,7 +67,7 @@ export const AcercaDe = () => {
             <div className="col-lg-3 mb-3 d-flex align-items-stretch">
               <div className="card">
                 <div className="card-body">
-                  <h5 className="card-title">Santanita</h5>
+                  <h5 className="card-title">baby Boo</h5>
                   <p className="card-text">Ni practico ni nah</p>
                   <div className="text-center ">
                     <img src={fotoPerfil5} alt="Foto developer" width="220px" height="auto" />
